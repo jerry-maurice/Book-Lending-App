@@ -1,6 +1,6 @@
 # MyReads Project: A Book Lending App
 
-This is the first project of the Udacity React Nanodegree Program. It is an app that allows a user to select and categorize books. Categories include : read, currently reading and want to read. 
+This is the first project of the Udacity React Nanodegree Program. In order to build this app, I used the starter template provided by Udacity. It is an app that allows a user to select and categorize books. Categories include : read, currently reading and want to read. 
 
 To get started :
 
