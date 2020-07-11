@@ -2,7 +2,6 @@ import React, {Component} from 'react'
 
 class Book extends Component{
     render(){
-        //let image = this.props.book.imageLinks ? this.props.book.imageLinks.thumbnail : 'https://books.google.com/googlebooks/images/no_cover_thumb.gif'
         return(
             <div className="book">
                 <div className="book-top">
